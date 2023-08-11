@@ -1,0 +1,22 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.deign{
+    border: 1px solid lightgrey;
+    width: 100%;
+    margin: 20px;
+}
+.Moviereview{
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 15px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
+#contact iframe
+{
+    width: 100%;
+}
